@@ -1,0 +1,126 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>BattleShipStateTracker</name>
+    </assembly>
+    <members>
+        <member name="M:BattleShipStateTracker.Controllers.BattleShipController.Fire(System.Int32,System.Int32,System.String)">
+            <summary>
+            Fire api - Players can use this api to fire at enemy ships at any given cordinates within a 10x10 board.
+            XCordinate values are from 0-9.
+            YCordinate values are from 0-9.
+            </summary>
+            <param name="xCordinate">XCordinate of the Unit.</param>
+            <param name="yCordinate">YCordinate of the Unit.</param>
+            <param name="playerName">Default value is Player1</param>
+            <returns>Success/Fail and the Return Message</returns>
+        </member>
+        <member name="M:BattleShipStateTracker.Helpers.Helper.CreateResponse(System.Boolean,System.String)">
+            <summary>
+            
+            </summary>
+            <param name="isSuccess"></param>
+            <param name="message"></param>
+            <returns></returns>
+        </member>
+        <member name="M:BattleShipStateTracker.Helpers.Helper.IsSpaceAvailableInRow(System.Int32,System.Int32)">
+            <summary>
+            This method is responsible for checking if there is space in a row for allocating the ship
+            </summary>
+            <param name="cordinate">Starting Xcordinate</param>
+            <param name="ShipSize">Size of the ship</param>
+            <returns></returns>
+        </member>
+        <member name="T:BattleShipStateTracker.Provider.BoardProvider">
+            <summary>
+            Class responsible for creating the board.
+            </summary>
+        </member>
+        <member name="M:BattleShipStateTracker.Provider.BoardProvider.CreateBoard(System.Int32,System.String)">
+            <summary>
+            This method creates the board, creats the units and assigns it to the board.
+            </summary>
+            <param name="id">An integer Id for the board.</param>
+            <param name="boardName">Name for the board.</param>
+            <returns></returns>
+        </member>
+        <member name="M:BattleShipStateTracker.Provider.PlayerProvider.CreatePlayer(System.String)">
+            <summary>
+            Responsible for creating a player object and adding it to the list.
+            Inmemory implementation to be replaced later.
+            </summary>
+            <param name="name"></param>
+            <returns></returns>
+        </member>
+        <member name="M:BattleShipStateTracker.Provider.PlayerProvider.GetPlayer(System.String)">
+            <summary>
+            Find the name of the player from the inmemory list.
+            </summary>
+            <param name="name">Name of the player to be searched</param>
+            <returns></returns>
+        </member>
+        <member name="M:BattleShipStateTracker.Provider.PlayerProvider.Fire(System.Int32,System.Int32,BattleShipStateTracker.Models.Player)">
+            <summary>
+            The method responsible for hitting a cordinate based on user's input.
+            </summary>
+            <param name="xCordinate">XCordinate</param>
+            <param name="yCordinate">YCordinate</param>
+            <param name="player">Player Object</param>
+            <returns></returns>
+        </member>
+        <member name="M:BattleShipStateTracker.Provider.ShipProvider.CreateShips(System.Int32,BattleShipStateTracker.Models.Board)">
+            <summary>
+            Allocates ships to the board.
+            </summary>
+            <param name="numberOfShips">Number of Ships required</param>
+            <param name="board">The board object</param>
+            <returns></returns>
+        </member>
+        <member name="M:BattleShipStateTracker.Provider.ShipProvider.AllocateShip(BattleShipStateTracker.Models.Board,BattleShipStateTracker.Models.Ship)">
+            <summary>
+            Allocates the ship to the board.
+            </summary>
+            <param name="board"></param>
+            <param name="ship"></param>
+            <returns></returns>
+        </member>
+        <member name="M:BattleShipStateTracker.Provider.ShipProvider.AllocateShip(BattleShipStateTracker.Models.Board,BattleShipStateTracker.Models.Ship,System.Int32)">
+            <summary>
+            
+            </summary>
+            <param name="board"></param>
+            <param name="ship"></param>
+            <param name="unitIndex"></param>
+            <returns></returns>
+        </member>
+        <member name="M:BattleShipStateTracker.Provider.ShipProvider.IsShipAllocated(BattleShipStateTracker.Models.Board,System.Int32)">
+            <summary>
+            Check for any allocated units in the series.
+            </summary>
+            <param name="board">The Board object</param>
+            <param name="unitIndex">Index of the unit in the list</param>
+            <returns></returns>
+        </member>
+        <member name="M:BattleShipStateTracker.Provider.ShipProvider.CreateShip(System.Int32)">
+            <summary>
+            Create ship object with the basic parameters
+            </summary>
+            <param name="j">Index</param>
+            <returns>Ship Object</returns>
+        </member>
+        <member name="M:BattleShipStateTracker.Provider.UnitProvider.CreateUnits">
+            <summary>
+            This function is responsible for creating the units required for the board.
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:BattleShipStateTracker.Provider.UnitProvider.CreateUnit(System.Int32,System.Int32)">
+            <summary>
+            Function that creats a unit.
+            </summary>
+            <param name="XCordinate"></param>
+            <param name="YCordinate"></param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

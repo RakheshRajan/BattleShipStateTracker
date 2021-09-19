@@ -1,0 +1,12 @@
+E:\Rakhesh\BattleShipStateTracker\BattleShipStateTracker\BattleShipStateTracker\obj\Release\net5.0\PubTmp\Out\BattleShipStateTracker.exe
+E:\Rakhesh\BattleShipStateTracker\BattleShipStateTracker\BattleShipStateTracker\obj\Release\net5.0\PubTmp\Out\appsettings.Development.json
+E:\Rakhesh\BattleShipStateTracker\BattleShipStateTracker\BattleShipStateTracker\obj\Release\net5.0\PubTmp\Out\appsettings.json
+E:\Rakhesh\BattleShipStateTracker\BattleShipStateTracker\BattleShipStateTracker\obj\Release\net5.0\PubTmp\Out\BattleShipStateTracker.dll
+E:\Rakhesh\BattleShipStateTracker\BattleShipStateTracker\BattleShipStateTracker\obj\Release\net5.0\PubTmp\Out\BattleShipStateTracker.deps.json
+E:\Rakhesh\BattleShipStateTracker\BattleShipStateTracker\BattleShipStateTracker\obj\Release\net5.0\PubTmp\Out\BattleShipStateTracker.runtimeconfig.json
+E:\Rakhesh\BattleShipStateTracker\BattleShipStateTracker\BattleShipStateTracker\obj\Release\net5.0\PubTmp\Out\BattleShipStateTracker.pdb
+E:\Rakhesh\BattleShipStateTracker\BattleShipStateTracker\BattleShipStateTracker\obj\Release\net5.0\PubTmp\Out\Microsoft.OpenApi.dll
+E:\Rakhesh\BattleShipStateTracker\BattleShipStateTracker\BattleShipStateTracker\obj\Release\net5.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+E:\Rakhesh\BattleShipStateTracker\BattleShipStateTracker\BattleShipStateTracker\obj\Release\net5.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Rakhesh\BattleShipStateTracker\BattleShipStateTracker\BattleShipStateTracker\obj\Release\net5.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Rakhesh\BattleShipStateTracker\BattleShipStateTracker\BattleShipStateTracker\obj\Release\net5.0\PubTmp\Out\BattleShipStateTracker.xml

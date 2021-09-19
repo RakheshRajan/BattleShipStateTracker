@@ -1,0 +1,47 @@
+{
+  "swagger": "2.0",
+  "info": {
+    "title": "BattleShipStateTracker",
+    "version": "v1"
+  },
+  "paths": {
+    "/BattleShip/{xCordinate}/{yCordinate}/{playerName}": {
+      "get": {
+        "tags": [
+          "BattleShip"
+        ],
+        "summary": "Fire api - Players can use this api to fire at enemy ships at any given cordinates within a 10x10 board.\r\nXCordinate values are from 0-9.\r\nYCordinate values are from 0-9.",
+        "parameters": [
+          {
+            "in": "path",
+            "name": "xCordinate",
+            "description": "XCordinate of the Unit.",
+            "required": true,
+            "type": "integer",
+            "format": "int32"
+          },
+          {
+            "in": "path",
+            "name": "yCordinate",
+            "description": "YCordinate of the Unit.",
+            "required": true,
+            "type": "integer",
+            "format": "int32"
+          },
+          {
+            "in": "path",
+            "name": "playerName",
+            "description": "Default value is Player1",
+            "required": true,
+            "type": "string"
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      }
+    }
+  }
+}
