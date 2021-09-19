@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2QNZIY00IEm5ED81Vh5dEMDGTRR9r7zKiSC2cFvYTDW0Hh9BD7kIiewYPpHB7MPKcDbDrWO0t4yNZ2Poi5ZAhA==",
+  "dgSpecHash": "3COk//YwEYq6kFU5SfVyUrCdksZNiy75XrCXpVZ4Asr1aZfDf7SXPnhzj0U9Fx4BQ2hAMOq0cH8f7TO6QOG+cg==",
   "success": true,
-  "projectFilePath": "E:\\Rakhesh\\BattleShipStateTracker\\BattleShipStateTracker\\BattleShipStateTracker.Tests\\BattleShipStateTracker.Tests.csproj",
+  "projectFilePath": "E:\\Rakhesh\\GitHub\\BattleShipStateTracker\\BattleShipStateTracker\\BattleShipStateTracker\\BattleShipStateTracker.Tests\\BattleShipStateTracker.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\sowma\\.nuget\\packages\\coverlet.collector\\3.0.2\\coverlet.collector.3.0.2.nupkg.sha512",
     "C:\\Users\\sowma\\.nuget\\packages\\fluentassertions\\6.1.0\\fluentassertions.6.1.0.nupkg.sha512",

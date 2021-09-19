@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Rakhesh\\BattleShipStateTracker\\BattleShipStateTracker\\BattleShipStateTracker\\BattleShipStateTracker.csproj": {}
+    "E:\\Rakhesh\\GitHub\\BattleShipStateTracker\\BattleShipStateTracker\\BattleShipStateTracker\\BattleShipStateTracker\\BattleShipStateTracker.csproj": {}
   },
   "projects": {
-    "E:\\Rakhesh\\BattleShipStateTracker\\BattleShipStateTracker\\BattleShipStateTracker\\BattleShipStateTracker.csproj": {
+    "E:\\Rakhesh\\GitHub\\BattleShipStateTracker\\BattleShipStateTracker\\BattleShipStateTracker\\BattleShipStateTracker\\BattleShipStateTracker.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Rakhesh\\BattleShipStateTracker\\BattleShipStateTracker\\BattleShipStateTracker\\BattleShipStateTracker.csproj",
+        "projectUniqueName": "E:\\Rakhesh\\GitHub\\BattleShipStateTracker\\BattleShipStateTracker\\BattleShipStateTracker\\BattleShipStateTracker\\BattleShipStateTracker.csproj",
         "projectName": "BattleShipStateTracker",
-        "projectPath": "E:\\Rakhesh\\BattleShipStateTracker\\BattleShipStateTracker\\BattleShipStateTracker\\BattleShipStateTracker.csproj",
+        "projectPath": "E:\\Rakhesh\\GitHub\\BattleShipStateTracker\\BattleShipStateTracker\\BattleShipStateTracker\\BattleShipStateTracker\\BattleShipStateTracker.csproj",
         "packagesPath": "C:\\Users\\sowma\\.nuget\\packages\\",
-        "outputPath": "E:\\Rakhesh\\BattleShipStateTracker\\BattleShipStateTracker\\BattleShipStateTracker\\obj\\",
+        "outputPath": "E:\\Rakhesh\\GitHub\\BattleShipStateTracker\\BattleShipStateTracker\\BattleShipStateTracker\\BattleShipStateTracker\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\sowma\\AppData\\Roaming\\NuGet\\NuGet.Config",
