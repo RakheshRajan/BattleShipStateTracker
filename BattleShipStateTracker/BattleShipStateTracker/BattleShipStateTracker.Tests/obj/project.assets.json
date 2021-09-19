@@ -6350,11 +6350,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Rakhesh\\GitHub\\BattleShipStateTracker\\BattleShipStateTracker\\BattleShipStateTracker\\BattleShipStateTracker.Tests\\BattleShipStateTracker.Tests.csproj",
+      "projectUniqueName": "E:\\Rakhesh\\Test1\\BattleShipStateTracker\\BattleShipStateTracker\\BattleShipStateTracker\\BattleShipStateTracker.Tests\\BattleShipStateTracker.Tests.csproj",
       "projectName": "BattleShipStateTracker.Tests",
-      "projectPath": "E:\\Rakhesh\\GitHub\\BattleShipStateTracker\\BattleShipStateTracker\\BattleShipStateTracker\\BattleShipStateTracker.Tests\\BattleShipStateTracker.Tests.csproj",
+      "projectPath": "E:\\Rakhesh\\Test1\\BattleShipStateTracker\\BattleShipStateTracker\\BattleShipStateTracker\\BattleShipStateTracker.Tests\\BattleShipStateTracker.Tests.csproj",
       "packagesPath": "C:\\Users\\sowma\\.nuget\\packages\\",
-      "outputPath": "E:\\Rakhesh\\GitHub\\BattleShipStateTracker\\BattleShipStateTracker\\BattleShipStateTracker\\BattleShipStateTracker.Tests\\obj\\",
+      "outputPath": "E:\\Rakhesh\\Test1\\BattleShipStateTracker\\BattleShipStateTracker\\BattleShipStateTracker\\BattleShipStateTracker.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\sowma\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -6371,8 +6371,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "E:\\Rakhesh\\GitHub\\BattleShipStateTracker\\BattleShipStateTracker\\BattleShipStateTracker\\BattleShipStateTracker\\BattleShipStateTracker.csproj": {
-              "projectPath": "E:\\Rakhesh\\GitHub\\BattleShipStateTracker\\BattleShipStateTracker\\BattleShipStateTracker\\BattleShipStateTracker\\BattleShipStateTracker.csproj"
+            "E:\\Rakhesh\\Test1\\BattleShipStateTracker\\BattleShipStateTracker\\BattleShipStateTracker\\BattleShipStateTracker\\BattleShipStateTracker.csproj": {
+              "projectPath": "E:\\Rakhesh\\Test1\\BattleShipStateTracker\\BattleShipStateTracker\\BattleShipStateTracker\\BattleShipStateTracker\\BattleShipStateTracker.csproj"
             }
           }
         }
